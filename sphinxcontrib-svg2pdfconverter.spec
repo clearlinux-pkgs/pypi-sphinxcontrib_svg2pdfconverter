@@ -4,7 +4,7 @@
 #
 Name     : sphinxcontrib-svg2pdfconverter
 Version  : 1.2.0
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/59/3a/202cfc55f35118e9b2f3d78a5376b38a050f835e30ea9ab6f88828733a47/sphinxcontrib-svg2pdfconverter-1.2.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/59/3a/202cfc55f35118e9b2f3d78a5376b38a050f835e30ea9ab6f88828733a47/sphinxcontrib-svg2pdfconverter-1.2.0.tar.gz
 Summary  : Sphinx SVG to PDF converter extension
@@ -58,7 +58,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1637349018
+export SOURCE_DATE_EPOCH=1641428009
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
