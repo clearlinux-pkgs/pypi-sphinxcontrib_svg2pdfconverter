@@ -7,7 +7,7 @@
 #
 Name     : pypi-sphinxcontrib_svg2pdfconverter
 Version  : 1.2.3
-Release  : 18
+Release  : 19
 URL      : https://files.pythonhosted.org/packages/55/df/038c33dd93daea6ca91f8168a5bbcab7744f030005a15e23d6a50793a264/sphinxcontrib_svg2pdfconverter-1.2.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/55/df/038c33dd93daea6ca91f8168a5bbcab7744f030005a15e23d6a50793a264/sphinxcontrib_svg2pdfconverter-1.2.3.tar.gz
 Summary  : Sphinx SVG to PDF converter extension
