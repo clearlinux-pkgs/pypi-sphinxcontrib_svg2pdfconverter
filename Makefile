@@ -1,5 +1,5 @@
 PKG_NAME := pypi-sphinxcontrib_svg2pdfconverter
-URL = https://files.pythonhosted.org/packages/55/df/038c33dd93daea6ca91f8168a5bbcab7744f030005a15e23d6a50793a264/sphinxcontrib_svg2pdfconverter-1.2.3.tar.gz
+URL = https://files.pythonhosted.org/packages/e9/e2/ff9a504da29525e1443004751bdf8e2d23aef8e47a88135aa7a9a026d94a/sphinxcontrib_svg2pdfconverter-1.3.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
